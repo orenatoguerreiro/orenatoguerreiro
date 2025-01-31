@@ -23,7 +23,7 @@ Enthusiast of the world of data and analytics! </br> </br>
 </p>
 
 
-### 🧰 Frameworks and libraries:
+### 🧰 Libraries:
 <p dir="auto">
     <a href="#"><img alt="Pandas" src="https://camo.githubusercontent.com/4c1efb687553d1147337ecf2c387077e8e609aa51505a1219f0c27b3a55a38f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50616e6461732532302d2532333135303435382e7376673f6c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
